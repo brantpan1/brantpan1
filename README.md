@@ -8,7 +8,7 @@ I thrive on the creativity of graphic design and the logical challenges of web d
 
 Skills: HTML, CSS, JavaScript, React, Node.js, Express.js, Java, C++ Adobe Photoshop, Illustrator, Figma MongoDB, MySQL, Git, UI/UX Design, Responsive Web Design, RESTful APIs
 
-- 🔭 I’m currently working on New Revamped Portfolio Website 
+- 🔭 I’m currently working on my new revamped portfolio
 - 🌱 I’m currently learning AWS 
 - 📫 How to reach me: brant.pan3@gmail.com 
 
