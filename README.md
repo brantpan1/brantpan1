@@ -2,7 +2,7 @@
 #### Graphic Design and Web Development
 ![Graphic Design and Web Development](https://i.ibb.co/SfXKJtL/BANNER-FIXED.png)
 
-Hello there! I'm a passionate web developer and graphic designer based in the vibrant city of Chicago, Illinois. My interests lie at the exciting intersection between art and computer science, where creativity meets functionality. Here, you'll find a collection of my projects, each crafted with care and designed to inspire.
+Hello there! I'm a passionate web developer and graphic designer based in the city of Chicago, Illinois. My interests lie at the exciting intersection between art and computer science, where creativity meets functionality. Here, you'll find a collection of my projects, each crafted with care and designed to inspire.
 
 I thrive on the creativity of graphic design and the logical challenges of web development. My journey in the world of technology has led me to explore innovative ways to blend artistry and computational thinking. With a strong background in both fields, I bring a unique perspective to my projects, aiming to create visually appealing and technically sound solutions.
 
