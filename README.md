@@ -6,7 +6,7 @@ Hello there! I'm a passionate web developer and graphic designer based in the ci
 
 I thrive on the creativity of graphic design and the logical challenges of web development. My journey in the world of technology has led me to explore innovative ways to blend artistry and computational thinking. With a strong background in both fields, I bring a unique perspective to my projects, aiming to create visually appealing and technically sound solutions.
 
-Skills: HTML, CSS, JavaScript, React, Node.js, Express.js, Java, C++, Adobe Photoshop, Illustrator, Figma MongoDB, MySQL, Git, UI/UX Design, Responsive Web Design, RESTful APIs
+Skills: HTML, CSS, JavaScript, React, Node.js, Express.js, Java, C++, Adobe Photoshop, Illustrator, Figma, MongoDB, MySQL, Git, UI/UX Design, Responsive Web Design, RESTful APIs
 
 - 🔭 I’m currently working on my new revamped portfolio
 - 🌱 I’m currently learning AWS 
