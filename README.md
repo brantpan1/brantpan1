@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Brant Pan
 #### Graphic Design and Web Development
-![Graphic Design and Web Development](https://i.ibb.co/SfXKJtL/BANNER-FIXED.png)
 
 Hello there! I'm a passionate web developer and graphic designer based in the city of Chicago, Illinois. My interests lie at the exciting intersection between art and computer science, where creativity meets functionality. Here, you'll find a collection of my projects, each crafted with care and designed to inspire.
 
