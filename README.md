@@ -1,12 +1,12 @@
-### Hi there 👋, My name is Brant Pan
+### My name is Brant!
 #### Graphic Design and Web Development
 
-Hello there! I'm a passionate web developer and graphic designer based in the city of Chicago, Illinois. My interests lie at the exciting intersection between art and computer science, where creativity meets functionality. Here, you'll find a collection of my projects.
+Hello there! I like web design and yohji yamamoto
 
 Skills: HTML, CSS, JavaScript, React, Node.js, Express.js, Java, C++, Adobe Photoshop, Illustrator, Figma, MongoDB, MySQL, Git, UI/UX Design, Responsive Web Design, RESTful APIs
 
-- 🔭 I’m currently working on my new revamped portfolio
-- 🌱 I’m currently learning AWS 
+- 🔭 I’m currently working at Priceline
+- 🌱 I’m currently learning Redis
 - 📫 How to reach me: brant.pan3@gmail.com 
 
 
